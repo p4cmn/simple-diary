@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="email_hint">Email</string>
+    <string name="password_confirm_hint">Confirm password</string>
+    <string name="login_button_text">Login</string>
+    <string name="registration_text">Don\'t have an account yet? Register</string>
+    <string name="authorization_text">Do you have an account? Login</string>
+    <string name="register_button_text">Register</string>
+    <string name="registration_info_text">Register to create records in your diary.</string>
+    <string name="authorization_info_text">Login to create records in your diary.</string>
+    <string name="password_hint">Password</string>
+    <string name="add_button_text">Add</string>
+    <string name="menu_button_text">Menu</string>
+    <string name="edit_menu_text">Edit</string>
+    <string name="delete_menu_text">Delete</string>
+    <string name="save_button_text">Save</string>
+    <string name="content_hint">Content</string>
+    <string name="title_hint">Title</string>
+    <string name="date_hint">Date</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+    <string name="confirm_text">Are you sure you want to delete this note? This action cannot be undone.</string>
+</resources>
